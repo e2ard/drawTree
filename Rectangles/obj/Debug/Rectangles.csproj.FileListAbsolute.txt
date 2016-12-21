@@ -1,0 +1,9 @@
+C:\Users\Edvard\Documents\Visual Studio 2015\Projects\DrawTree\Rectangles\bin\Debug\Rectangles.exe.config
+C:\Users\Edvard\Documents\Visual Studio 2015\Projects\DrawTree\Rectangles\obj\Debug\Rectangles.Properties.Resources.resources
+C:\Users\Edvard\Documents\Visual Studio 2015\Projects\DrawTree\Rectangles\obj\Debug\Rectangles.csproj.GenerateResource.Cache
+C:\Users\Edvard\Documents\Visual Studio 2015\Projects\DrawTree\Rectangles\bin\Debug\Rectangles.exe
+C:\Users\Edvard\Documents\Visual Studio 2015\Projects\DrawTree\Rectangles\bin\Debug\Rectangles.pdb
+C:\Users\Edvard\Documents\Visual Studio 2015\Projects\DrawTree\Rectangles\obj\Debug\Rectangles.exe
+C:\Users\Edvard\Documents\Visual Studio 2015\Projects\DrawTree\Rectangles\obj\Debug\Rectangles.pdb
+C:\Users\Edvard\Documents\Visual Studio 2015\Projects\DrawTree\Rectangles\obj\Debug\Rectangles.Form1.resources
+C:\Users\Edvard\Documents\Visual Studio 2015\Projects\DrawTree\Rectangles\obj\Debug\Rectangles.csprojResolveAssemblyReference.cache
