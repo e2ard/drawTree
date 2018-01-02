@@ -1,0 +1,11 @@
+C:\Users\Edvard\Documents\DrawTree\Julia\bin\Release\Julia.exe.config
+C:\Users\Edvard\Documents\DrawTree\Julia\bin\Release\Julia.exe
+C:\Users\Edvard\Documents\DrawTree\Julia\bin\Release\Julia.pdb
+C:\Users\Edvard\Documents\DrawTree\Julia\bin\Release\System.Numerics.Vectors.dll
+C:\Users\Edvard\Documents\DrawTree\Julia\bin\Release\System.Numerics.Vectors.xml
+C:\Users\Edvard\Documents\DrawTree\Julia\obj\Release\Julia.Form1.resources
+C:\Users\Edvard\Documents\DrawTree\Julia\obj\Release\Julia.Properties.Resources.resources
+C:\Users\Edvard\Documents\DrawTree\Julia\obj\Release\Julia.csproj.GenerateResource.Cache
+C:\Users\Edvard\Documents\DrawTree\Julia\obj\Release\Julia.exe
+C:\Users\Edvard\Documents\DrawTree\Julia\obj\Release\Julia.pdb
+C:\Users\Edvard\Documents\DrawTree\Julia\obj\Release\Julia.csprojResolveAssemblyReference.cache

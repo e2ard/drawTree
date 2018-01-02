@@ -1,0 +1,8 @@
+C:\Users\Edvard\Documents\DrawTree\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe.config
+C:\Users\Edvard\Documents\DrawTree\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.exe
+C:\Users\Edvard\Documents\DrawTree\WindowsFormsApplication1\bin\Release\WindowsFormsApplication1.pdb
+C:\Users\Edvard\Documents\DrawTree\WindowsFormsApplication1\obj\Release\DrawTree.Form1.resources
+C:\Users\Edvard\Documents\DrawTree\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Edvard\Documents\DrawTree\WindowsFormsApplication1\obj\Release\Stairs.csproj.GenerateResource.Cache
+C:\Users\Edvard\Documents\DrawTree\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.exe
+C:\Users\Edvard\Documents\DrawTree\WindowsFormsApplication1\obj\Release\WindowsFormsApplication1.pdb

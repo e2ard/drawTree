@@ -1,0 +1,5 @@
+C:\Users\Edvard\Documents\DrawTree\DrawTree\obj\Release\DrawTree.Form1.resources
+C:\Users\Edvard\Documents\DrawTree\DrawTree\obj\Release\DrawTree.Properties.Resources.resources
+C:\Users\Edvard\Documents\DrawTree\DrawTree\obj\Release\DrawTree.csproj.GenerateResource.Cache
+C:\Users\Edvard\Documents\DrawTree\DrawTree\obj\Release\DrawTree.exe
+C:\Users\Edvard\Documents\DrawTree\DrawTree\obj\Release\DrawTree.pdb

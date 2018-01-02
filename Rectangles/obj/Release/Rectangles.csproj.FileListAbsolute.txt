@@ -1,0 +1,9 @@
+C:\Users\Edvard\Documents\DrawTree\Rectangles\bin\Release\Rectangles.exe.config
+C:\Users\Edvard\Documents\DrawTree\Rectangles\bin\Release\Rectangles.exe
+C:\Users\Edvard\Documents\DrawTree\Rectangles\bin\Release\Rectangles.pdb
+C:\Users\Edvard\Documents\DrawTree\Rectangles\obj\Release\Rectangles.csprojResolveAssemblyReference.cache
+C:\Users\Edvard\Documents\DrawTree\Rectangles\obj\Release\Rectangles.Form1.resources
+C:\Users\Edvard\Documents\DrawTree\Rectangles\obj\Release\Rectangles.Properties.Resources.resources
+C:\Users\Edvard\Documents\DrawTree\Rectangles\obj\Release\Rectangles.csproj.GenerateResource.Cache
+C:\Users\Edvard\Documents\DrawTree\Rectangles\obj\Release\Rectangles.exe
+C:\Users\Edvard\Documents\DrawTree\Rectangles\obj\Release\Rectangles.pdb

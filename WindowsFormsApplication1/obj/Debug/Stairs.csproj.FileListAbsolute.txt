@@ -7,3 +7,12 @@ C:\Users\Edvard\Documents\Visual Studio 2015\Projects\DrawTree\WindowsFormsAppli
 C:\Users\Edvard\Documents\Visual Studio 2015\Projects\DrawTree\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
 C:\Users\Edvard\Documents\Visual Studio 2015\Projects\DrawTree\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
 C:\Users\Edvard\Documents\Visual Studio 2015\Projects\DrawTree\WindowsFormsApplication1\obj\Debug\DrawTree.Form1.resources
+C:\Users\Edvard\Documents\DrawTree\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+C:\Users\Edvard\Documents\DrawTree\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+C:\Users\Edvard\Documents\DrawTree\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+C:\Users\Edvard\Documents\DrawTree\WindowsFormsApplication1\obj\Debug\Stairs.csprojResolveAssemblyReference.cache
+C:\Users\Edvard\Documents\DrawTree\WindowsFormsApplication1\obj\Debug\DrawTree.Form1.resources
+C:\Users\Edvard\Documents\DrawTree\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\Edvard\Documents\DrawTree\WindowsFormsApplication1\obj\Debug\Stairs.csproj.GenerateResource.Cache
+C:\Users\Edvard\Documents\DrawTree\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+C:\Users\Edvard\Documents\DrawTree\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb

@@ -11,3 +11,10 @@ C:\Users\Edvard\documents\visual studio 2015\Projects\DrawTree\DrawTree\bin\Debu
 C:\Users\Edvard\documents\visual studio 2015\Projects\DrawTree\DrawTree\bin\Debug\DrawTree.application
 C:\Users\Edvard\documents\visual studio 2015\Projects\DrawTree\DrawTree\obj\Debug\DrawTree.exe.manifest
 C:\Users\Edvard\documents\visual studio 2015\Projects\DrawTree\DrawTree\obj\Debug\DrawTree.application
+C:\Users\Edvard\Documents\DrawTree\DrawTree\bin\Debug\DrawTree.exe.config
+C:\Users\Edvard\Documents\DrawTree\DrawTree\obj\Debug\DrawTree.exe
+C:\Users\Edvard\Documents\DrawTree\DrawTree\obj\Debug\DrawTree.pdb
+C:\Users\Edvard\Documents\DrawTree\DrawTree\obj\Debug\DrawTree.csprojResolveAssemblyReference.cache
+C:\Users\Edvard\Documents\DrawTree\DrawTree\obj\Debug\DrawTree.Form1.resources
+C:\Users\Edvard\Documents\DrawTree\DrawTree\obj\Debug\DrawTree.Properties.Resources.resources
+C:\Users\Edvard\Documents\DrawTree\DrawTree\obj\Debug\DrawTree.csproj.GenerateResource.Cache
